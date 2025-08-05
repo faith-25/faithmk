@@ -1,0 +1,9 @@
+body {background-color: lightblue;}
+h1 {color: blue; text-align: center; font-family: Lucida handwriting;}
+h4 {color: orange; text-align: center; font-family: Algerian;}
+h2 {color: blue; text-align: left; font-family: Monotype Corsiva; font-size: 30px;}
+nav {width: 100%; height: 50px; background-color: purple;}
+ul {width: auto; float: center; margin-top: 10px; margin-right: 200px; text-align: center;}
+li {display: inline-block; padding: 10px 20px;}
+a:link {color: white; font-size: 20px; text-decoration: none;}
+a:hover {text-decoration: underline; color: red; transition: 1s;}
